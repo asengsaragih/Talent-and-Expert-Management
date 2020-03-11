@@ -24,6 +24,18 @@
     padding-right: 10px;
 }
 
+.text-red {
+    color: #BA0D0D;
+}
+
+.graduate-box {
+    background-color: #BA0D0D;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
 .site-footer-2 {
     padding: 7em 0;
     background: #F4F4F4;
