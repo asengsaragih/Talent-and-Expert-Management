@@ -1,0 +1,39 @@
+.image-logo {
+    width: 80%;
+}
+
+.bg-palette-one { background-color: #DE1B1B; }
+.bg-palette-two { background-color: #BA0D0D; }
+.bg-palette-three { background-color: #900E0E; }
+.bg-palette-four { background-color: #343941; }
+.bg-palette-five { background-color: #444B55; }
+
+.navbar-2 {
+    padding: 20px;
+}
+
+.btn-search {
+    color: white;
+    background-color: #BA0D0D;
+    border-color: #BA0D0D;
+}
+
+.btn-40 {
+    width:40%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.site-footer-2 {
+    padding: 7em 0;
+    background: #F4F4F4;
+    color: rgba(255, 255, 255, 0.4); }
+.site-footer a {
+    color: rgba(255, 255, 255, 0.7); }
+.site-footer a:hover {
+    color: #fff; }
+.site-footer .footer-heading {
+    font-size: 18px;
+    color: #fff; }
+.site-footer ul li {
+    margin-bottom: 10px; }
