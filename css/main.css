@@ -52,9 +52,35 @@
 
 .card-login {
     position: absolute;
-    right: 0;
+    right: -100px;
 }
 
 .radius-login {
     border-radius: 20px;
+}
+
+.img-bar {
+    width: 30px;
+}
+
+.button-center {
+    margin: auto;
+}
+
+.btn-bid {
+    border: none;
+    padding: 10px 43px;
+    background: #BA0D0D;
+    border-radius: 30px;
+    color: white;
+}
+
+.row-bid {
+    border-bottom: 1px solid black;
+}
+
+.search-input {
+    width: 80%;
+    border-radius: 30px;
+    float: left;
 }
