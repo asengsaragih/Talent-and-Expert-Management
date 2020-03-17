@@ -49,3 +49,12 @@
     color: #fff; }
 .site-footer ul li {
     margin-bottom: 10px; }
+
+.card-login {
+    position: absolute;
+    right: 0;
+}
+
+.radius-login {
+    border-radius: 20px;
+}
